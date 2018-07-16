@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UIBestPractice</string>
+    <string name="editTextHint">Type Something Here</string>
+</resources>
